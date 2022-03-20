@@ -1,0 +1,3 @@
+﻿  Bank_client.cpp
+E:\проекты оаип\структуры\Bank_client\Bank_client\Bank_client.cpp(120,9): warning C4101: j: неиспользованная локальная переменная
+  Bank_client.vcxproj -> E:\проекты оаип\структуры\Bank_client\x64\Debug\Bank_client.exe
